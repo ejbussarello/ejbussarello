@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejbussarello&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente estou trabalhando com Infraestrutura
 - 🌱 Atualmente estou aprendendo Flutter
 - 💬 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem
 
