@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 Atualmente estou trabalhando com Infraestrutura
-- 🌱 Atualmente estou estudando algumas tecnologias como ReactJS, ReactNative, Node.js, Elixir e Flutter
+- 🌱 Atualmente estou estudando algumas tecnologias como C# .Net, ReactJS, Node.js e Flutter
 - 💬 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem
 
   <p align="left">
