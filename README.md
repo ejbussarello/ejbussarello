@@ -1,9 +1,9 @@
 <p align="left"> 
-  Olá, meu nome é Eduardo Bussarello. Sou Analista de Infraestrutura e aficionado por Desenvolvimento Front-End e UI Designer. 👋
+  Olá, meu nome é Eduardo Bussarello. 👋
 </p>
 
 - 🔭 Atualmente estou trabalhando com Infraestrutura
-- 🌱 Atualmente estou estudando algumas tecnologias como C# .Net, ReactJS, Node.js e Flutter
+- 🌱 Atualmente estou estudando algumas tecnologias como C# .Net e Flutter
 - 💬 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem
 
   <p align="left">
