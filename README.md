@@ -2,8 +2,8 @@
   Olá, meu nome é Eduardo Bussarello. 👋
 </p>
 
-- 🔭 Atualmente estou trabalhando com Infraestrutura
-- 🌱 Atualmente estou estudando algumas tecnologias como C# .Net e Flutter
+- 🔭 Atualmente estou em transição de carreira para a área de desenvolvimento
+- 🌱 Atualmente estou estudando algumas tecnologias como C# .Net
 - 💬 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem
 
   <p align="left">
